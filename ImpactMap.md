@@ -20,9 +20,15 @@ Contributions Welcome! If you've got something you'd like to add or change on th
 ```mermaid
 mindmap
   root[Improve OSS Sustainability<br/>and Community]
-    1[1. Consumers]
+    1[1. Consumer Devs]
     2[2. Employees]
+      2.1[2.1 Demonstrate the value of OSS]
+        2.1.1[2.1.1 Tooling to show where/how OSS is used in their projects]
+        2.1.2[2.1.2 Articles on measuring/quantifying OSS Value]
+      2.2[2.2 Highlight the Risks of Unsustainable OSS]
+        2.2.1[2.2.1 Collect implosion stories]
     3[3. Businesses]
+      3.1[3.1 Understand OSS as part of their supply chain]
     4[4. Contributors]
     5[5. Not-Yet-Contributors]
     6[6. Maintainers]
